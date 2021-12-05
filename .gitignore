@@ -1,0 +1,5 @@
+.idea/
+.PVS-Studio/
+target/
+database.properties
+hibernate.cfg.xml
